@@ -1,5 +1,8 @@
+The languages I use to create stuff: 
+
 ![Metrics](/github-metrics.svg)
 
+Learning new things everyday...
 <!--
 **Mismelaine/Mismelaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
