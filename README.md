@@ -2,7 +2,7 @@ Some of the languages I use to create stuff:
 
 ![Metrics](/github-metrics.svg)
 
-Add me on discord : KORDANA#1818
+Add me on discord : .kordana
 <!--
 **Mismelaine/Mismelaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
